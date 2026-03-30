@@ -1,4 +1,4 @@
-# Household Poverty Classification using Machine Learning
+# Household Poverty Classification using Machine Learning Techniques (Case in Ghana)
 
 ## Overview
 This project develops machine learning models to classify household poverty status using household survey data.
