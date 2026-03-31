@@ -35,4 +35,4 @@ The models achieved approximately 90% classification accuracy, with strong perfo
 - ggplot2
 
 ## Note
-The original survey dataset is confidential and cannot be publicly shared. 
+This was an internship project during my internship at ICF International Inc., Reston, VA, USA in 2024. The original survey dataset is confidential and cannot be publicly shared. 
