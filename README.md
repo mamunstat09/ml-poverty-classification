@@ -31,6 +31,7 @@ The models achieved approximately 90% classification accuracy, with strong perfo
 - caret
 - randomForest
 - e1071
+- MASS
 - ggplot2
 
 ## Note
